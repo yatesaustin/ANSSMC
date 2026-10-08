@@ -1,1 +1,12 @@
-# ANSSMC
+# ANSSMCDOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<h1>HAIL OUR VICTORY</h1>
+<p>WHITE POWER 1488</p>
+</body>
+</html>
