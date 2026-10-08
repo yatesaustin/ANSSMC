@@ -6,7 +6,7 @@ ALL HAIL THE MIGHTY ARYAN NATION
     <title>Document</title>
 </head>
 <body>
-<h1>HAIL OUR VICTORY<
+<h1>HAIL OUR VICTORY
 <p>WHITE POWER 1488</p>
 </body>
 </html>
