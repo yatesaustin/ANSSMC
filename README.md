@@ -1,4 +1,4 @@
-# ANSSMCDOCTYPE html>
+ALL HAIL THE MIGHTY ARYAN NATION 
 <html lang="en">
 <head>
     <meta charset="UTF-8">
